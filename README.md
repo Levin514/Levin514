@@ -13,7 +13,12 @@ proyectos y mis intereses.
 * Lugar de residencia: Ecuador
 * Sitio web: [Tu sitio web]
 ## Proyectos
-* [Lista de tus proyectos]
+* - [Proyecto Petbacker] (https://github.com/KevinJSalazar/ProyectoSBD) 
+    Descripción: Este proyecto tiene el objetivo de funcionar como un sitio para la reserva de servicios para mascotas, conectando las entradas a una base de datos usando Java y MySQL
+* - [Proyecto aplicación para venta y compra de autos] (https://github.com/javierkiu/Proyecto_EstructuraDeDatos)
+    Descripción: Este proyecto se encarga de gestionar la venta y compra de vehículos para una empresa automotriz, desarrollado usando Java
+  - [Proyecto Toma de decisiones](https://github.com/javierkiu/Proyecto_Toma_Decisiones)
+    Descripción: El proyecto se encarga adivinar un personaje en el que el usuario piensa, para esto, genera preguntas de si o no hasta encontrar al personaje, el proyecto se define en Java 
 ## Tecnologías
 - Python
 - Java
