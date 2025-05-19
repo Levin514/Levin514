@@ -20,9 +20,13 @@ proyectos y mis intereses.
 * [Proyecto Toma de decisiones](https://github.com/javierkiu/Proyecto_Toma_Decisiones)
     - Descripción: El proyecto se encarga adivinar un personaje en el que el usuario piensa, para esto, genera preguntas de si o no hasta encontrar al personaje, el proyecto se define en Java 
 ## Tecnologías
-- Python
-- Java
-- C
+- **Python**: Utilizado para el desarrollo de scripts y automatización de tareas, así como para el análisis de datos y prototipado rápido.
+- **Java**: Lenguaje principal en la mayoría de los proyectos, empleado para la lógica de negocio, conexión con bases de datos y desarrollo de aplicaciones de escritorio.
+- **C**: Usado para comprender conceptos fundamentales de programación y estructuras de datos, así como para desarrollar aplicaciones de bajo nivel.
+- **Apache NetBeans**: Entorno de desarrollo integrado (IDE) utilizado principalmente para programar en Java, facilitando la gestión y depuración de los proyectos.
+- **MySQL**: Sistema de gestión de bases de datos relacional, empleado para almacenar y consultar información en proyectos como Petbacker.
+- **Visual Studio Code**: Editor de código versátil utilizado para programar en diferentes lenguajes y gestionar proyectos de manera eficiente.
+- **Git**: Sistema de control de versiones utilizado para el seguimiento de cambios y la colaboración en los proyectos a través de plataformas como GitHub.
 ## Intereses
 * Programación
 * Música
